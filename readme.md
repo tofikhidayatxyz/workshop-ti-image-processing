@@ -5,6 +5,13 @@
 ## NIM
 # 20200040056
 
+## Requirements
+- Opencv
+- Python 3.9
+
+## Run
+```$ python image.py```
+
 <br>
 <br>
 
